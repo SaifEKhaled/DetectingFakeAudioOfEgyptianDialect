@@ -70,7 +70,3 @@ The project is structured into several key components:
 ## Authors
 
 - Saif Eldeen Khaled Emera, Ziad Tarek
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
